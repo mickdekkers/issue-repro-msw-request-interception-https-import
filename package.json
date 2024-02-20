@@ -1,0 +1,8 @@
+{
+  "name": "msw-https-import-intercept-issue",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "msw": "^2.2.1"
+  }
+}
